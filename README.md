@@ -1,2 +1,2 @@
-# nuxt-cockpitcms-blog
-Custom Blog with Nuxt frontend and Cockpit CMS backend.
+# Nuxt & Cockpit CMS Blog
+A Tutorial to create Nuxt & Cockpit CMS Blog
